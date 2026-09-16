@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "oneblock831.mcsh.io",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "moneyserver831.aternos.me",
+    "port": 11434,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
